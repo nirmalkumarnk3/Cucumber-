@@ -1,4 +1,5 @@
 #Author: your.email@your.domain.com
+
 @regression @sprint1 @addtarif
 Feature: To test add tariff plan
 

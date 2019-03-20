@@ -10,4 +10,15 @@ public class HomePageSteps extends BaseClass {
 		HomePage home = new HomePage();
 		click(home.getLnk_addCustomer());
 	}
-}
+		
+		@Given("The user is in add tariff plan page")
+		public void the_user_is_in_add_tariff_plan_page() {
+			HomePage home = new HomePage();
+			click(home.getLnk_addTariffPlan());
+			
+		    
+		}
+
+		
+	}
+
