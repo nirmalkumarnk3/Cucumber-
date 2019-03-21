@@ -5,7 +5,7 @@ Feature: To test add customer
 
     
 
-  @us12 @us21 @us22
+  
   Scenario: Title of your scenario 1
   Given The user is in add customer page
     When The user fill in the customer details
